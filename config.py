@@ -1,4 +1,4 @@
-API_ID = 123456
-API_HASH = "your_api_hash"
-BOT_TOKEN = "your_bot_token"
+API_ID = 23340285
+API_HASH = "ab18f905cb5f4a75d41bb48d20acfa50"
+BOT_TOKEN = "8035877917:AAFLR5oEh_HCdUSUVrVClhFLDEJgBgJeuY8"
 DOWNLOAD_DIR = "./downloads"
